@@ -14,25 +14,25 @@ This dashboard provides an interactive comparison between invoicing and orders, 
 ### Page 1: Menu
 - **Navigation**: Select between pages for order analysis, invoicing analysis, and comparative analysis.
   
-![Page 1 Menu](images/page1.png)
+![Page 1 Menu](images/BIM.png)
 
 ### Page 2: Order Analysis
 - **Ordered Revenue**: Displays total revenue based on orders.
 - **Ordered Quantity**: Shows total quantity ordered over selected time frames.
 
-![Page 2 Order Analysis](images/page2.png)
+![Page 2 Order Analysis](images/BIS.png)
 
 ### Page 3: Invoicing Analysis
 - **Invoiced Revenue**: Shows the revenue captured from invoiced sales.
 - **Invoiced Quantity**: Displays the total quantity invoiced, offering insights into fulfillment.
 
-![Page 3 Invoicing Analysis](images/page3.png)
+![Page 3 Invoicing Analysis](images/BIS2.png)
 
 ### Page 4: Comparison of Invoicing vs. Orders
 - **Revenue Comparison**: Compares invoiced revenue to ordered revenue, highlighting potential discrepancies.
 - **Quantity Comparison**: Contrasts invoiced quantities with ordered quantities to monitor fulfillment gaps.
 
-![Page 4 Comparison](images/page4.png)
+![Page 4 Comparison](images/BIS3.png)
 
 ## How to Use
 
